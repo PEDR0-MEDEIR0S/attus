@@ -8,7 +8,7 @@
 
 | Arquivo                            | Descrição                                                                 |
 |------------------------------------|---------------------------------------------------------------------------|
-| `diagram.bpmn`                     | Arquivo editável do diagrama em BPMN (pode ser aberto no Camunda Modeler).|
+| `diagram.bpmn`                     | Arquivo editável do diagrama em BPMN (pode ser aberto no Bizagi Modeler, demo.bpmn.io, ou qualquer outro visualizador bpmn).|
 | `diagram.svg`                      | Imagem gerada do diagrama BPMN.                                           |
 | `esquema_utilizado_para_bpmn.txt` | Documento com as regras de negócio e estrutura utilizadas para criar o fluxo. |
 | `visual.py`                        | Script Python que gera visualmente o fluxo com swimlanes e decisões usando Graphviz. |
