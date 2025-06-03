@@ -1,5 +1,5 @@
 # -----------------------------------------------------------------------------
-# Script: bpmn_fluxo_dispensa_recurso_modelado.py
+# Script: visual.py
 # Descrição: Gera um diagrama de processo (fluxo BPMN simplificado) utilizando
 #            a biblioteca Graphviz, representando o fluxo de dispensa de recurso
 #            judicial no âmbito do Núcleo de Saúde do Ministério Público.
