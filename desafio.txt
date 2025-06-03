@@ -1,0 +1,60 @@
+Teste Técnico Negócio - Mão na massa 🤚
+
+🎯Estudo de Caso Dispensa de Recurso - Attus Procuradoria Digital !
+A partir da estrutura fictícia de Procuradoria representada pela imagem em anexo, além das respectivas competências, desenhe um fluxo utilizando notação BPMN de acordo com enunciado.
+Leia as informações com atenção e compreenda a estrutura da Procuradoria. Estas informações servirão de apoio para a consolidação do desenho de fluxo solicitado.
+
+📍 Competência de cada especializada
+  Procuradoria de Dívida Ativa:
+  👉 Responsável pelo ajuizamento Execuções Fiscais.
+  Núcleo de Executivo Fiscal:
+  👉 Responsável pelo acompanhamento de processos da classe Execução Fiscal.
+  Núcleo de Assuntos Estratégicos:
+  👉 Responsável pelo acompanhamento de processos judiciais de assuntos estratégicos definidos pela instituição a partir de características do processo, que são compreendidos como relevantes.
+  Núcleo de Saúde:
+  👉 Responsável pelo acompanhamento de processos judiciais de assuntos relacionados à Saúde.
+  Núcleo Trabalhista:
+  👉 Responsável pelo acompanhamento de processos judiciais que tramitam nos Tribunais Regionais do Trabalho.
+  Núcleo Imobiliário e Ambiental:
+  👉 Responsável pelo acompanhamento de processos judiciais de assuntos relacionados à Imóveis e Meio Ambiente.
+  Consultoria Jurídica da Secretaria de Segurança Pública:
+  👉 Responsável pela elaboração de Pareceres Jurídicos em processos administrativos oriundos da Secretarias de Segurança Pública, para a melhor tomada de decisão e com a devida segurança jurídica.
+  Consultoria Jurídica da Secretaria de Saúde:
+  👉 Responsável pela elaboração de Pareceres Jurídicos em processos administrativos oriundos da Secretarias de Saúde, para a melhor tomada de decisão e com a devida segurança jurídica.
+
+📍LOTAÇÔES:
+  Procuradoria - Geral:
+  👉 Procurador Geral ;
+  👉 Assessores.
+  
+  Subprocuradorias:
+  👉 Subprocurador-Geral ;
+  👉Assessores .
+  
+  Núcleo Especializados:
+  👉 Procurador Chefe de Especializada;
+  👉 Procurador de base ;
+  👉 Estagiários .
+
+💭 O que é uma dispensa de recurso?
+Uma dispensa de recurso ocorre quando uma das partes em um processo judicial decide não apresentar recurso contra uma decisão. No contexto em que o Estado é réu e se considera que não há defesa efetiva
+a ser apresentada, a dispensa de recurso pode ser uma estratégia para aceitar a decisão do juiz ou tribunal sem contestar.
+No direito brasileiro, essa situação pode ocorrer quando o Estado, ao avaliar a decisão, entende que a possibilidade de sucesso em um recurso é mínima ou que a decisão não justifica o prolongamento do
+processo. A dispensa de recurso pode ter como objetivo evitar gastos adicionais com litígios ou reconhecer que a decisão é justa e não há necessidade de revisão. Assim, a parte opta por aceitar a sentença ou
+decisão judicial, sem buscar modificar o resultado através de instâncias superiores.
+A decisão de renúncia de recurso na Procuradoria não é de competência do Procurador de base, ou seja, obrigatoriamente deve passar pela aprovação da chefia imediata.
+
+📋 Atividade
+Dentro da estrutura organizacional da procuradoria há três níveis hierárquicos e que a competência de apreciação dos processos é dos Núcleos Especializados. Ao recepcionar uma intimação, quem realiza a
+primeira avaliação é o Procurador de base. O Procurador de base entendendo ser uma decisão que não cabe apresentar um recurso, decide dar início ao fluxo de dispensa.
+Faça um desenho do fluxo dispensa de recurso utilizando notação BPMN, considerando as seguintes premissas:
+
+1. Processo da área da Saúde;
+2. O primeiro ator do fluxo é o Procurador de base;
+3. Não seja generalista, informe nas raias do fluxo o nome do papel exercido em cada etapa do processo e o Núcleo Especializado de atuação;
+4. Procurador de base não pode decidir a dispensa sem aprovação da chefia imediata;
+5. A Chefia imediata, não obrigatoriamente decide a dispensa, podendo submeter à Subprocuradoria imediatamente superior;
+6. Da mesma forma, a Subprocuradoria pode submeter ao Gabinete do Procurador Geral;
+7. O Núcleo especializado não pode pedir aprovação do Gabinete sem passar anteriormente pela Subprocuradoria imediata;
+8. Decidida a dispensa de recurso pelas chefias, o Procurador de base deve receber a notificação seja ela de deferimento ou indeferimento do pedido;
+9. Por fim, o Procurador de base deve concluir a sua demanda.
